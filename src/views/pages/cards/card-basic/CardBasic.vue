@@ -230,7 +230,7 @@ const isCardDetailsVisible = ref(false)
 
 
 
-    <!-- 👉 Lifetime Membership -->
+    <!-- 👉 Kalanggaman Island package -->
     <VCol
       md="6"
       lg="8"
@@ -247,11 +247,11 @@ const isCardDetailsVisible = ref(false)
             order-lg="1"
           >
             <VCardItem>
-              <VCardTitle>Lifetime Membership</VCardTitle>
+              <VCardTitle>Kalanggaman Island</VCardTitle>
             </VCardItem>
 
             <VCardText>
-              Here, I focus on a range of items and features that we use in life without giving them a second thought such as Coca Cola, body muscles and holding ones own breath. Though, most of these notes are not fundamentally necessary, they are such that you can use them for a good laugh, at a drinks party or for picking up women or men.
+              🏝️Escape to the tropical paradise of Kalanggaman Island this holiday season at a reduced price! 💰🌊Savor crystal clear waters, pristine white sands, and a vibrant coral reef ecosystem. 🌞Ideal for relaxation and adventure, this remote island is the perfect escape from the hustle and bustle. Book now for an unforgettable experience filled with sun, sea, and serenity at a fraction of the cost!🌴
             </VCardText>
 
             <VCardText>
@@ -273,7 +273,7 @@ const isCardDetailsVisible = ref(false)
                     color="primary"
                     icon="mdi-account-outline"
                   />
-                  <span class="ms-3">15 Members</span>
+                  <span class="ms-3">10 members</span>
                 </p>
               </div>
 
@@ -289,7 +289,7 @@ const isCardDetailsVisible = ref(false)
                     color="primary"
                     icon="mdi-star-outline"
                   />
-                  <span class="ms-3">Access all Features</span>
+                  <span class="ms-3">Free Freebies</span>
                 </p>
 
                 <p class="d-flex align-center mb-0">
@@ -297,7 +297,7 @@ const isCardDetailsVisible = ref(false)
                     color="primary"
                     icon="mdi-trending-up"
                   />
-                  <span class="ms-3">Lifetime Free Update</span>
+                  <span class="ms-3">Excellent Staff and crew</span>
                 </p>
               </div>
             </VCardText>
@@ -315,12 +315,12 @@ const isCardDetailsVisible = ref(false)
             <div class="membership-pricing d-flex flex-column align-center py-14 h-100 justify-center">
               <p class="mb-5">
                 <sub class="text-h5">$</sub>
-                <sup class="text-h2 font-weight-medium">899</sup>
+                <sup class="text-h2 font-weight-medium">799</sup>
                 <sub class="text-h5">USD</sub>
               </p>
 
               <p class="text-sm">
-                5 Tips For Offshore <br> Software Development
+                Holiday <br> Island Package
               </p>
 
               <VBtn class="mt-8">
